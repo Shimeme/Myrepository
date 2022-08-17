@@ -1,3 +1,1 @@
-print('hello world')
-
-print('i hate this')
+print('i fcking hate this')
